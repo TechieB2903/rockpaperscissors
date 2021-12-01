@@ -1,7 +1,11 @@
+
 .row {
   text-align: center;
 }
 .choices {
   display: flex;
   justify-content: space-between;
+}
+h1{
+  font-family: 'Press Start 2P', cursive;
 }
